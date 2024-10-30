@@ -1,0 +1,27 @@
+.credibility-footnotes {
+	padding: 40px;
+	background: #efefef;
+	border: 1px solid #e0e0e0;
+}
+
+.credibility-footnotes .attribution {
+	font-size: 80%;
+    text-decoration: none;
+    color: inherit;
+    border: 0;
+    margin-bottom: 10px;
+}
+
+.credibility-footnotes h4 {
+	margin-bottom: 4px;
+	margin-top: 0;
+}
+
+.credibility-footnotes ol {
+	padding-left: 20px;
+	margin-top: 10px;
+}
+
+.credibility-footnotes ol li {
+	margin-bottom: 4px;
+}
